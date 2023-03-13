@@ -2,7 +2,7 @@
 
 
 
--  Right now i'm focused on specializing as a Front-End Developer 
+-  Focused on specializing as a Front-End Developer 
   
 ## Im current learning:
 
